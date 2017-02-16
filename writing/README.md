@@ -13,9 +13,9 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
 - Traffic flow theory - An understanding in traffic flow theory is a necessity to understand and analyze traffic congestion.
 
 ##### References
-The Hidden Cost of Gridlock on our Roads (link)
-Traffic Congestion and Reliability: (link)
-Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
+ - The Hidden Cost of Gridlock on our Roads (link)
+ - Traffic Congestion and Reliability: (link)
+ - Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
 
 ### Congestion in Delhi
 ##### References
