@@ -36,14 +36,14 @@ References
 
 
 ### Congestion Analysis
-Variables
+#### Variables
 
-#### Temporal
+##### Temporal
  - Day of the week
  - Time of day
  - Any special day/public holiday/ city level event
 
-#### Spatial - Different type of land uses- School
+##### Spatial - Different type of land uses- School
  - Hospital
  - Residential
  - Commercial/Retail
