@@ -1,9 +1,3 @@
-## Reading List
-
-- Vanderbilt, Tom. Traffic: why we drive the way we do (and what it says about us). New York: Vintage Books, 2009.
-- Gately, Iain. Rush hour: how 500 million commuters survive the daily journey to work. London: Head of Zeus, 2014.
-
-
 ## Spatio Temporal Visualization of Traffic Congestion in Delhi
 
 
@@ -97,4 +91,6 @@ OSM Data to be combined with the traffic data
 
 ### Mocks
 [https://github.com/agaase/msdv-thesis/blob/master/writing/mockups.pdf](https://agaase.github.io/major-studio-1/undp/quantitative/)
+
+
 
