@@ -19,11 +19,11 @@ Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
 
 ### Congestion in Delhi
 ##### References
-Why Delhi's decongestion plan will only increase congestion? (link)
-Why Delhi's decongestion plan will only increase congestion? (link)
-Growing congestion on Delhi roads likely to reduce speeds to 5kmph (link)
-Decongestion Plan for Delhi (link)
-Transport and land-use policies in Delhi (link)
+ - Why Delhi's decongestion plan will only increase congestion? (link)
+ - Why Delhi's decongestion plan will only increase congestion? (link)
+ - Growing congestion on Delhi roads likely to reduce speeds to 5kmph (link)
+ - Decongestion Plan for Delhi (link)
+ - Transport and land-use policies in Delhi (link)
 
 ### Spatial Representation: Why?
 - Significance of spatial visualization - What spatial representation helps in? Why do we need it?
