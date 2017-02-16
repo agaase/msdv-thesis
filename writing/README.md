@@ -11,13 +11,13 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
 - What, Why?
 - Economic cost
 - Traffic flow theory - An understanding in traffic flow theory is a necessity to understand and analyze traffic congestion.
-References
+##### References
 The Hidden Cost of Gridlock on our Roads (link)
 Traffic Congestion and Reliability: (link)
 Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
 
 ### Congestion in Delhi
-References
+##### References
 Why Delhi's decongestion plan will only increase congestion? (link)
 Why Delhi's decongestion plan will only increase congestion? (link)
 Growing congestion on Delhi roads likely to reduce speeds to 5kmph (link)
@@ -28,7 +28,7 @@ Transport and land-use policies in Delhi (link)
 - Significance of spatial visualization - What spatial representation helps in? Why do we need it?
 - Traffic congestion and spatial representation
 - Existing research & Visualization
-References
+##### References
  - Visual Exploration of Spatial-Temporal Traffic Congestion Patterns Using Floating Car Data (link)
  - TIME: An open platform for capturing, processing and delivering transport-related data (link)
  - Congestion patterns of traffic studied on Nanjing city dual graph (link)
