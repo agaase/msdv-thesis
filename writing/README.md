@@ -94,3 +94,7 @@ OSM Data to be combined with the traffic data
 3. Color scheme for different land uses.
 4. Quantify congestion levels for a single timespan that can be displayed for a single day.
 
+
+Mocks
+ [https://github.com/agaase/msdv-thesis/blob/master/writing/mockups.pdf](https://agaase.github.io/major-studio-1/undp/quantitative/)
+
