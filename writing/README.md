@@ -64,9 +64,9 @@ References
     
 ### Research methodology
 #### Data Sources
- - OpenMapTiles (link) - Provides high resolution vector tile set with different features.
+ - [OpenMapTiles](https://openmaptiles.org/schema/) - Provides high resolution vector tile set with different features.
 
- - Google Map Directions API (link) - Service that calculates directions between locations using an HTTP request.
+ - [Google Map Directions API](https://developers.google.com/maps/documentation/directions/intro) - Service that calculates directions between locations using an HTTP request.
 
 #### Data Collection
 ##### Fetch
@@ -90,7 +90,11 @@ OSM Data to be combined with the traffic data
 
 
 ### Mocks
-[https://github.com/agaase/msdv-thesis/blob/master/writing/mockups.pdf](https://agaase.github.io/major-studio-1/undp/quantitative/)
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/1.jpg)
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/2.jpg)
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/3.jpg)
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/4.jpg)
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/5.jpg)
 
 
 
