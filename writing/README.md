@@ -64,7 +64,7 @@ Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
 		3. For a particular area, the timeline of congestion at different times.
     
     
-### Research methodology
+### Research/Visualization methodology
 #### Data Sources
  - [OpenMapTiles](https://openmaptiles.org/schema/) - Provides high resolution vector tile set with different features.
 
@@ -99,4 +99,5 @@ OSM Data to be combined with the traffic data
 ![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/5.jpg)
 
 
-
+### POC
+[![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/POC.png)](https://www.mapbox.com/studio/styles/agaase/ciyytgl6a00302qo96ewqf74j/edit/)
