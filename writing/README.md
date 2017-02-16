@@ -69,6 +69,8 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
  - [OpenMapTiles](https://openmaptiles.org/schema/) - Provides high resolution vector tile set with different features.
 
  - [Google Map Directions API](https://developers.google.com/maps/documentation/directions/intro) - Service that calculates directions between locations using an HTTP request.
+ 
+ - [Geopatial Delhi Limited](http://gsdl.org.in/) - Collects infrastructure related GIS data.
 
 #### Data Collection
 ##### Fetch
