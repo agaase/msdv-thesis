@@ -43,7 +43,8 @@ References
  - Time of day
  - Any special day/public holiday/ city level event
 
-##### Spatial - Different type of land uses- School
+##### Spatial - Different type of land uses
+ - School
  - Hospital
  - Residential
  - Commercial/Retail
@@ -62,26 +63,26 @@ References
     
     
 ### Research methodology
-- Data Sources
+#### Data Sources
  - OpenMapTiles (link) - Provides high resolution vector tile set with different features.
 
  - Google Map Directions API (link) - Service that calculates directions between locations using an HTTP request.
 
-- Data Collection
-#### Fetch
+#### Data Collection
+##### Fetch
 Based on different road data that OSM provide, fetch travel time for each as per below logic
  1. Each day is divided into different hours.
  2. For each timespan one query is sent that returns travel time on basis of historical data and live traffic.
  3. the travel time along with information, like distance is stored
 
-#### Manipulate
+##### Manipulate
  - Once the data is collected over 3-4 weeks, calculate averages for days of week based on different values
  - Any outliers should be investigated (public holiday, any special city level event?)
 
-#### Store
+##### Store
 OSM Data to be combined with the traffic data
 
-- Data Visualization
+#### Data Visualization
  - Setup map to visualize for a particular timespan within a day.
  - Color scheme for different congestion levels.
  - Color scheme for different land uses.
