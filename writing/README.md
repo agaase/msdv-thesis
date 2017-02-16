@@ -1,7 +1,7 @@
 ## Spatio Temporal Visualization of Traffic Congestion in Delhi
 
 
-![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mindmap.png)
+[![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mindmap.png)](https://mm.tt/839687015?t=jSvOCBwlvc)
 
 ### Research Question
 I want to carry out spatio-temporal visualisation of traffic flow in Delhi because I want to find out the extent of congestion being faced by different types of roads and areas in order to help the users analyse traffic congestion based on different parameters.
