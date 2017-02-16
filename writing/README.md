@@ -3,11 +3,11 @@
 
 [![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mindmap.png)](https://mm.tt/839687015?t=jSvOCBwlvc)
 
-### Research Question
+## Research Question
 I want to carry out spatio-temporal visualisation of traffic flow in Delhi because I want to find out the extent of congestion being faced by different types of roads and areas in order to help the users analyse traffic congestion based on different parameters.
 
 
-### Why are we talking about congestion?
+## Why are we talking about congestion?
 - What, Why?
 - Economic cost
 - Traffic flow theory - An understanding in traffic flow theory is a necessity to understand and analyze traffic congestion.
@@ -17,7 +17,7 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
  - Traffic Congestion and Reliability: (link)
  - Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
 
-### Congestion in Delhi
+## Congestion in Delhi
 ##### References
  - Why Delhi's decongestion plan will only increase congestion? (link)
  - Why Delhi's decongestion plan will only increase congestion? (link)
@@ -25,7 +25,7 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
  - Decongestion Plan for Delhi (link)
  - Transport and land-use policies in Delhi (link)
 
-### Spatial Representation: Why?
+## Spatial Representation: Why?
 - Significance of spatial visualization - What spatial representation helps in? Why do we need it?
 - Traffic congestion and spatial representation
 - Existing research & Visualization
@@ -37,7 +37,7 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
  - Mastering the Information Age Solving Problems with Visual Analytics (link)
 
 
-### Congestion Analysis
+## Congestion Analysis
 #### Variables
 
 ##### Temporal
@@ -64,7 +64,7 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
 		3. For a particular area, the timeline of congestion at different times.
     
     
-### Research/Visualization methodology
+## Research/Visualization methodology
 #### Data Sources
  - [OpenMapTiles](https://openmaptiles.org/schema/) - Provides high resolution vector tile set with different features.
 
@@ -91,7 +91,7 @@ OSM Data to be combined with the traffic data
  - Quantify congestion levels for a single timespan that can be displayed for a single day.
 
 
-### Mocks
+## Mocks
 ![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/1.jpg)
 ![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/2.jpg)
 ![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/3.jpg)
@@ -99,5 +99,5 @@ OSM Data to be combined with the traffic data
 ![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/5.jpg)
 
 
-### POC
+## POC
 [![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mocks/POC.png)](https://www.mapbox.com/studio/styles/agaase/ciyytgl6a00302qo96ewqf74j/edit/)
