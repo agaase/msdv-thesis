@@ -2,3 +2,95 @@
 
 - Vanderbilt, Tom. Traffic: why we drive the way we do (and what it says about us). New York: Vintage Books, 2009.
 - Gately, Iain. Rush hour: how 500 million commuters survive the daily journey to work. London: Head of Zeus, 2014.
+
+
+## Spatio Temporal Visualization of Traffic Congestion in Delhi
+
+
+![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mindmap.png)
+
+### Research Question
+I want to carry out spatio-temporal visualisation of traffic flow in Delhi because I want to find out the extent of congestion being faced by different types of roads and areas in order to help the users analyse traffic congestion based on different parameters.
+
+
+### Why are we talking about congestion?
+- What, Why?
+- Economic cost
+- Traffic flow theory - An understanding in traffic flow theory is a necessity to understand and analyze traffic congestion.
+References
+The Hidden Cost of Gridlock on our Roads (link)
+Traffic Congestion and Reliability: (link)
+Traffic Flow Theory, Sven Maerivoet∗ and Bart De Moor (link)
+
+### Congestion in Delhi
+References
+Why Delhi's decongestion plan will only increase congestion? (link)
+Why Delhi's decongestion plan will only increase congestion? (link)
+Growing congestion on Delhi roads likely to reduce speeds to 5kmph (link)
+Decongestion Plan for Delhi (link)
+Transport and land-use policies in Delhi (link)
+
+### Spatial Representation: Why?
+- Significance of spatial visualization - What spatial representation helps in? Why do we need it?
+- Traffic congestion and spatial representation
+- Existing research & Visualization
+References
+Visual Exploration of Spatial-Temporal Traffic Congestion Patterns Using Floating Car Data (link)
+TIME: An open platform for capturing, processing and delivering transport-related data (link)
+Congestion patterns of traffic studied on Nanjing city dual graph (link)
+Mastering the Information Age Solving Problems with Visual Analytics (link)
+
+
+### Congestion Analysis
+Variables
+- Temporal
+1. Day of the week
+2. Time of day
+3. Any special day/public holiday/ city level event
+
+- Spatial
+Different type of land uses- School
+- Hospital
+- Residential
+- Commercial/Retail
+- Industrial
+
+- Analysis
+  1. For different days, a timeline of congestion will be shown from which a particular day can be selected
+  2. For a single day, another timeline is shown along with the ability to play that timeline using a slider. User can thus analyse where its getting more congested or less 
+  3. The map showing the congestion for a particular timespan can be analysed further for
+	1. Which parts are more congested?
+	2. Bottlenecks can be highlighted automatically and can be studied
+	3. Zooming in will show a congested area in detail which can be analysed for - 
+		1. Different type of land uses at that place
+		2. What all types of roads converge 
+		3. For a particular area, the timeline of congestion at different times.
+    
+    
+### Research methodology
+- Data Sources
+OpenMapTiles (link)
+Provides high resolution vector tile set with different features.
+
+Google Map Directions API (link)
+Service that calculates directions between locations using an HTTP request.
+
+- Data Collection
+Fetch
+Based on different road data that OSM provide, fetch travel time for each as per below logic1. Each day is divided into different hours.
+2. For each timespan one query is sent that returns travel time on basis of historical data and live traffic.
+3. the travel time along with information, like distance is stored
+
+Manipulate
+1. Once the data is collected over 3-4 weeks, calculate averages for days of week based on different values
+2. Any outliers should be investigated (public holiday, any special city level event?)
+
+Store
+OSM Data to be combined with the traffic data
+
+- Data Visualization
+1. Setup map to visualize for a particular timespan within a day.
+2. Color scheme for different congestion levels.
+3. Color scheme for different land uses.
+4. Quantify congestion levels for a single timespan that can be displayed for a single day.
+
