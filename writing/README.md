@@ -1,4 +1,4 @@
-# Spatio Temporal Visualization of Traffic Congestion in Delhi
+# Spatio-Temporal Visualization of Traffic Congestion in Delhi
 
 
 [![PREVIEW](https://raw.githubusercontent.com/agaase/msdv-thesis/master/writing/mindmap.png)](https://mm.tt/839687015?t=jSvOCBwlvc)
