@@ -63,11 +63,9 @@ Different type of land uses- School
     
 ### Research methodology
 - Data Sources
-OpenMapTiles (link)
-Provides high resolution vector tile set with different features.
+ - OpenMapTiles (link) - Provides high resolution vector tile set with different features.
 
-Google Map Directions API (link)
-Service that calculates directions between locations using an HTTP request.
+ - Google Map Directions API (link) - Service that calculates directions between locations using an HTTP request.
 
 - Data Collection
 Fetch
