@@ -54,7 +54,7 @@ I want to carry out spatio-temporal visualisation of traffic flow in Delhi becau
 
 #### Analysis
   1. For different days, a timeline of congestion will be shown from which a particular day can be selected
-  2. For a single day, another timeline is shown along with the ability to play that timeline using a slider. User can thus analyse where its getting more congested or less 
+  2. For one day, another timeline is shown along with the ability to play that timeline using a slider. User can thus analyse when its getting more congested or less 
   3. The map showing the congestion for a particular timespan can be analysed further for
 	1. Which parts are more congested?
 	2. Bottlenecks can be highlighted automatically and can be studied
