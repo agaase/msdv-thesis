@@ -10,4 +10,4 @@ There are different variables on which this project can further be studied upon 
 - For different distances what is the excess time ?
 - Is there an extreme variation in travel time based on time of the day or day of the week?
 - How does the situation looks like for different areas like schools, hospitals, commercial areas?
-- Analyse situation for a particular area.
+- What does the situation look like for a particular area?
