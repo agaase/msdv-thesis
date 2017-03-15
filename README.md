@@ -22,3 +22,18 @@ Iam working with different types of data collection and manipulation tools for t
 - Google Directions API provides for travel time between two points on a map
 - QGIS allows for bounds calculation and identify and fix any missing GIS pieces.
 - turfjs allows for geo spatial analysis
+
+
+## Mocks
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/4.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/5.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/6.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/7.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/8.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/10.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/11.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/12.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/13.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/14.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/15.png)
+
