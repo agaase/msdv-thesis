@@ -24,7 +24,7 @@ Iam working with different types of data collection and manipulation tools for t
 - turfjs allows for geo spatial analysis
 
 
-## Mocks
+## Wireframes
 ![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/4.png)
 ![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/5.png)
 ![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/6.png)
