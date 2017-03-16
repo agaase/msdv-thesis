@@ -29,4 +29,6 @@ But, what is the value of this type of analysis? There are several important rea
 CLICK TO OPEN
 [![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks2/1.png)](https://marvelapp.com/1jf6f5f)
 
+[LINK](https://github.com/agaase/msdv-thesis/tree/master/visualization/mocks2) TO ORIGINAL IMAGE FILES
+
 
