@@ -24,17 +24,9 @@ But, what is the value of this type of analysis? There are several important rea
 - Field of movement - urban traffic is more than just the share of people coming in and out during their office hours. Analysis of areas which take more time to travel could give an indicaton to the type of travel happening.
 - Bottleneck  - When we do analysis at a micro level, trying to understand if there's an extreme variation at different distances we could identify bottlenecks.
 
+<iframe src="https://marvelapp.com/1jf6f5f?emb=1" width="1952" height="1000" allowTransparency="true" frameborder="0"></iframe>
 
 ## Mocks
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/4.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/5.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/6.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/7.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/8.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/10.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/11.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/12.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/13.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/14.png)
-![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks1/15.png)
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks2/1.png)](https://marvelapp.com/1jf6f5f)
+
 
