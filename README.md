@@ -24,9 +24,9 @@ But, what is the value of this type of analysis? There are several important rea
 - Field of movement - urban traffic is more than just the share of people coming in and out during their office hours. Analysis of areas which take more time to travel could give an indicaton to the type of travel happening.
 - Bottleneck  - When we do analysis at a micro level, trying to understand if there's an extreme variation at different distances we could identify bottlenecks.
 
-<iframe src="https://marvelapp.com/1jf6f5f?emb=1" width="1952" height="1000" allowTransparency="true" frameborder="0"></iframe>
 
 ## Mocks
+CLICK TO OPEN
 [![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks2/1.png)](https://marvelapp.com/1jf6f5f)
 
 
