@@ -11,10 +11,12 @@ Delhi is the capital city of India. Its population of 25 million has almost doub
 - Field of movement - urban traffic is more than just the share of people coming in and out during their office hours. Analysis of areas which take more time to travel could give an indicaton to the type of travel happening.
 - Bottleneck  - When we do analysis at a micro level, trying to understand if there's an extreme variation at different distances we could identify bottlenecks.
 
-## Mocks
+## Presentation
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/1.png)](https://github.com/agaase/msdv-thesis/blob/master/writing/pres2.pdf)
 
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/1.png)](https://marvelapp.com/1jf6f5f)
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/2.png)](https://marvelapp.com/1jf6f5f)
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/3.png)](https://marvelapp.com/1jf6f5f)
+## Mocks
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/1.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/2.png)
+![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/3.png)
 
 
