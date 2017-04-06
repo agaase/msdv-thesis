@@ -12,9 +12,9 @@ Delhi is the capital city of India. Its population of 25 million has almost doub
 - Bottleneck  - When we do analysis at a micro level, trying to understand if there's an extreme variation at different distances we could identify bottlenecks.
 
 ## Mocks
-CLICK TO OPEN
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks2/1.png)](https://marvelapp.com/1jf6f5f)
 
-[LINK](https://github.com/agaase/msdv-thesis/tree/master/visualization/mocks2) TO ORIGINAL IMAGE FILES
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/1.png)](https://marvelapp.com/1jf6f5f)
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/2.png)](https://marvelapp.com/1jf6f5f)
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/3.png)](https://marvelapp.com/1jf6f5f)
 
 
