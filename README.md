@@ -10,6 +10,7 @@ Delhi is the capital city of India. Its population of 25 million has almost doub
 - Criticality - We are identifying areas which face excess time and also how much of it which gives an indication as to how critical is that area to receive attention.
 - Field of movement - urban traffic is more than just the share of people coming in and out during their office hours. Analysis of areas which take more time to travel could give an indicaton to the type of travel happening.
 - Bottleneck  - When we do analysis at a micro level, trying to understand if there's an extreme variation at different distances we could identify bottlenecks.
+
 The coming sections explain in details the approach towards buildings this kind of visualization and how the correlations can be possible.
 
 ## Mocks
