@@ -6,6 +6,6 @@ Congestion on roads in urban cities is a common phenomenon and also regarded som
 ### [Thesis Draft](https://docs.google.com/document/d/13JJJJHjDaktTiu8F4YQbtXkYz0Dk4p7SwXnuPv4q9Qs/edit)
 
 ## Mocks
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks3/1.png)](https://marvelapp.com/87dc11j)
+[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks4/0.png)](https://marvelapp.com/87dc11j)
 
 
