@@ -7,7 +7,25 @@ Congestion on roads in urban cities is a common phenomenon and also regarded som
 [SEE HERE](https://docs.google.com/document/d/13JJJJHjDaktTiu8F4YQbtXkYz0Dk4p7SwXnuPv4q9Qs/edit)
 
 ### Feature List
+Visualize the extent of congestion using three different perspectives
+1. Excess commute time in different areas
+2. Variation of excess commute time on different routes
+3. Select a custom area (one hex cell) or a route and see excess time variation for it.
 
+Each feature would further have a set of sub features described below
+1. Variation of excess time for different days of week (bar chart)
+2. Variation of excess time for different times of a day (bar chart)
+3. Variation of excess time for different trip length (bar chart)
+4. Show the actual areas/routes for on a spatial map.
+5. For 1 & 2 above a slider component to filter areas/routes above a certain cut off value.
+6. Able to bring a lens of other map features to understand the underlying urban terrain. These can be two types
+  1. Road structure (local roads, highways etc)
+  2. Landuse (commercial, residentials etc)
+
+Other micsellaneous features
+1. Ability to pinch and zoom the spatial representation.
+2. Qualitative statement accompanying every selected filter/perspective briefly explaining the current statistic.
+3. 
 
 ### Mocks
 
