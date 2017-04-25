@@ -25,7 +25,6 @@ Each feature would further have a set of sub features described below
 Other micsellaneous features
 1. Ability to pinch and zoom the spatial representation.
 2. Qualitative statement accompanying every selected filter/perspective briefly explaining the current statistic.
-3. 
 
 ### Mocks
 
