@@ -16,8 +16,8 @@ Each feature would further have a set of sub features described below
 1. Variation of excess time for different days of week (bar chart)
 2. Variation of excess time for different times of a day (bar chart)
 3. Variation of excess time for different trip length (bar chart)
-4. Show the actual areas/routes for on a spatial map.
-5. For 1 & 2 above a slider component to filter areas/routes above a certain cut off value.
+4. Show the actual areas/routes on a spatial map.
+5. For 1 & 2 above a slider component will be shown to filter areas/routes above a certain cut off value.
 6. Able to bring a lens of other map features to understand the underlying urban terrain. These can be two types
   1. Road structure (local roads, highways etc)
   2. Landuse (commercial, residentials etc)
