@@ -29,12 +29,3 @@ Other micsellaneous features
 1. Ability to pinch and zoom the spatial representation.
 2. Qualitative statement accompanying every selected filter/perspective briefly explaining the current statistic.
 
-### Mocks
-
-#### ORIGINAL MOCKS
-[SEE HERE](https://github.com/agaase/msdv-thesis/tree/master/visualization/mocks4)
-
-#### PROTOTYPE
-[![IMAGE](https://raw.githubusercontent.com/agaase/msdv-thesis/master/visualization/mocks4/0.png)](https://marvelapp.com/87dc11j)
-
-
