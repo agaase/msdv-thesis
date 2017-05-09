@@ -1,4 +1,4 @@
-## How is Delhi slowing down?
+## How is Delhi Slowing Down?
 #### Visualizing the extent of congestion on the roads of Delhi, the capital city of India.
 [![IMAGE](https://github.com/agaase/msdv-thesis/blob/master/visualization/preview.png?raw=true)](http://ec2-34-223-227-182.us-west-2.compute.amazonaws.com:8383)
 
